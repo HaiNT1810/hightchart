@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="GroupHighChart" List="113" Url="_catalogs/wp">
+    <File Path="GroupHighChart\GroupHighChart.webpart" Url="GroupHighChart.webpart" Type="GhostableInLibrary" >
+      <Property Name="Group" Value="Tandan.ISO" />
+    </File>
+  </Module>
+</Elements>
